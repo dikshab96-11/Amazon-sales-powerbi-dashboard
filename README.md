@@ -44,6 +44,10 @@ This project presents an end-to-end analysis of Amazon e-commerce sales data usi
 
 ## 📸 Dashboard Preview
 ![Dashboard]<img width="1033" height="586" alt="Amazon-sales-powebi" src="https://github.com/user-attachments/assets/e5d4b4e1-392c-410f-82a4-83c534472bdd" />
+Live Link 
+https://drive.google.com/file/d/1ieSirDJEypA_p4CmXVlB1OkJ8tTt3hfu/view?usp=sharing
+Data Set
+[ECOMM DATA.xlsx](https://github.com/user-attachments/files/27269162/ECOMM.DATA.xlsx)
 
 ---
 
